@@ -2,4 +2,4 @@
 A notification system created purely for the monitoring of potential career openings at Cyan, Inc.
 
 
-Check's "https://cyan.com/company/careers/" on a custom-interval basis. If there are any changes to the "Open Positions" section, and email is sent via user-provided smtp server. All user-provided information is encrypted. Feel free to use a "burner" email, if you are apprehensive ~ or check out the provided code. 
+Checks "https://cyan.com/company/careers/" on a custom-interval basis. If there are any changes to the "Open Positions" section, and email is sent via user-provided smtp server. All user-provided information is encrypted. Feel free to use a "burner" email, if you are apprehensive ~ or check out the provided code. 
